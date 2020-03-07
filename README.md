@@ -3,14 +3,14 @@
 This repository will contain all of capstone 2 project files
 
 Data 
-Raw/train.csv
+   - Raw/train.csv
  
 Documents
 
-Project Proposal
-Milestone Report
-Final Project Report
+   - Project Proposal
+   - Milestone Report
+   - Final Project Report
 
 Code
 
-Python Notebook- SalesForecasting.ipynb
+   - Python Notebook- SalesForecasting.ipynb
